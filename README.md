@@ -26,7 +26,7 @@ The Titanic dataset contains the following columns:
 
   **Scripts**
 
-  1. Data Cleaning
+  **1. Data Cleaning**
    
 This script handles missing values in the dataset and drops columns with excessive missing data.
 
